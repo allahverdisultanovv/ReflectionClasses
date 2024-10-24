@@ -1,0 +1,14 @@
+C:\Users\Allahverdi\source\repos\ReflectionClasses\bin\Debug\net6.0\ReflectionClasses.exe
+C:\Users\Allahverdi\source\repos\ReflectionClasses\bin\Debug\net6.0\ReflectionClasses.deps.json
+C:\Users\Allahverdi\source\repos\ReflectionClasses\bin\Debug\net6.0\ReflectionClasses.runtimeconfig.json
+C:\Users\Allahverdi\source\repos\ReflectionClasses\bin\Debug\net6.0\ReflectionClasses.dll
+C:\Users\Allahverdi\source\repos\ReflectionClasses\bin\Debug\net6.0\ReflectionClasses.pdb
+C:\Users\Allahverdi\source\repos\ReflectionClasses\obj\Debug\net6.0\ReflectionClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\source\repos\ReflectionClasses\obj\Debug\net6.0\ReflectionClasses.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\source\repos\ReflectionClasses\obj\Debug\net6.0\ReflectionClasses.AssemblyInfo.cs
+C:\Users\Allahverdi\source\repos\ReflectionClasses\obj\Debug\net6.0\ReflectionClasses.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\source\repos\ReflectionClasses\obj\Debug\net6.0\ReflectionClasses.dll
+C:\Users\Allahverdi\source\repos\ReflectionClasses\obj\Debug\net6.0\refint\ReflectionClasses.dll
+C:\Users\Allahverdi\source\repos\ReflectionClasses\obj\Debug\net6.0\ReflectionClasses.pdb
+C:\Users\Allahverdi\source\repos\ReflectionClasses\obj\Debug\net6.0\ReflectionClasses.genruntimeconfig.cache
+C:\Users\Allahverdi\source\repos\ReflectionClasses\obj\Debug\net6.0\ref\ReflectionClasses.dll
